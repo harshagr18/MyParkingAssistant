@@ -11,6 +11,3 @@ A parking booking application designed to list and rent out parking spaces.
 - A non-authenticated viewer can only create account or login.
 - Only a logged in, or authenicated, user will be able to create parkings, listings, comments and book listed parkings. 
 - In addition, an authenticated user will be able to view their own profile which includes information about their account, edit the details or delete the account.
-
-## GitHub
-- https://github.com/harshagr18/CS546_G8_finalProject
